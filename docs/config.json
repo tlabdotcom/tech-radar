@@ -1,0 +1,311 @@
+{
+  "date": "2024.01",
+  "entries": [
+    {
+      "label": "PHP",
+      "quadrant": 0,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Go",
+      "quadrant": 0,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Node.JS",
+      "quadrant": 0,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Laravel",
+      "link": "https://laravel.com/docs/11.x",
+      "quadrant": 0,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Echo Framework",
+      "link": "https://echo.labstack.com/docs",
+      "quadrant": 0,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Express JS",
+      "link": "https://expressjs.com/",
+      "quadrant": 0,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "NestJS",
+      "link": "https://docs.nestjs.com/",
+      "quadrant": 0,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "TypeScript",
+      "link": "https://www.typescriptlang.org/docs/",
+      "quadrant": 0,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Rust",
+      "link": "https://www.rust-lang.org/learn",
+      "quadrant": 0,
+      "ring": 2,
+      "moved": 0
+    },
+    {
+      "label": "Codeigniter",
+      "quadrant": 0,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "PostgreSQL 1 - 14",
+      "quadrant": 1,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "PostgreSQL 15 - 16",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Elasticsearch",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "MongoDB",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Redis",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Docker",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Kafka",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "RabbitMQ",
+      "quadrant": 1,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "MariaDB",
+      "quadrant": 1,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "VectorDB",
+      "quadrant": 1,
+      "ring": 2,
+      "moved": 0
+    },
+    {
+      "label": "Nats.io",
+      "quadrant": 1,
+      "ring": 2,
+      "moved": 0
+    },
+    {
+      "label": "Open Policy Agent (OPA)",
+      "quadrant": 1,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Casbin",
+      "quadrant": 1,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Monolith APP",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Microservice",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "CDC",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "REST",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "GraphQL",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "WebSocket",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "JAM Stack",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Caching",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Pub / Sub",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Queue",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0
+    },
+    {
+      "label": "API Gateway",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Distributed Tracing",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "CQRS",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0
+    },
+    {
+      "label": "Saga Pattern",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 0
+    },
+    {
+      "label": "Unit Test",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "OWASP Top 10 API Security",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 1
+    },
+    {
+      "label": "NPM",
+      "quadrant": 3,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "PHP Composer",
+      "quadrant": 3,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Git",
+      "quadrant": 3,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Adminer",
+      "quadrant": 3,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Portainer",
+      "quadrant": 3,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "Postman",
+      "quadrant": 3,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "SonarQube",
+      "quadrant": 3,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Azimute",
+      "quadrant": 3,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "RedPanda",
+      "quadrant": 3,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "Superset",
+      "quadrant": 3,
+      "ring": 1,
+      "moved": 1
+    },
+    {
+      "label": "PhpMyAdmin",
+      "quadrant": 3,
+      "ring": 3,
+      "moved": 0
+    }
+  ]
+}
