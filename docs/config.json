@@ -55,8 +55,22 @@
       "moved": 1
     },
     {
+      "label": "Bun",
+      "link": "https://bun.sh/",
+      "quadrant": 0,
+      "ring": 1,
+      "moved": 1
+    },
+    {
       "label": "Rust",
       "link": "https://www.rust-lang.org/learn",
+      "quadrant": 0,
+      "ring": 2,
+      "moved": 0
+    },
+    {
+      "label": "Python FastAPI",
+      "link": "https://fastapi.tiangolo.com/",
       "quadrant": 0,
       "ring": 2,
       "moved": 0
@@ -122,10 +136,11 @@
       "moved": 0
     },
     {
-      "label": "VectorDB",
+      "label": "ArangoDB",
+      "link": "https://arangodb.com/",
       "quadrant": 1,
-      "ring": 2,
-      "moved": 0
+      "ring": 1,
+      "moved": 1
     },
     {
       "label": "Nats.io",
@@ -137,7 +152,7 @@
       "label": "Open Policy Agent (OPA)",
       "quadrant": 1,
       "ring": 1,
-      "moved": 0
+      "moved": 1
     },
     {
       "label": "Casbin",
@@ -291,6 +306,7 @@
     },
     {
       "label": "RedPanda",
+      "link": "https://redpanda.com/",
       "quadrant": 3,
       "ring": 1,
       "moved": 1
