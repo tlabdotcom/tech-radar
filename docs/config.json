@@ -10,7 +10,7 @@
     {
       "label": "Go",
       "quadrant": 0,
-      "ring": 0,
+      "ring": 3,
       "moved": 0
     },
     {
@@ -65,7 +65,7 @@
       "label": "Rust",
       "link": "https://www.rust-lang.org/learn",
       "quadrant": 0,
-      "ring": 2,
+      "ring": 3,
       "moved": 0
     },
     {
@@ -113,6 +113,12 @@
     },
     {
       "label": "Docker",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 0
+    },
+    {
+      "label": "OpenTelemetry",
       "quadrant": 1,
       "ring": 0,
       "moved": 0
